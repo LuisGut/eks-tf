@@ -1,0 +1,15 @@
+profile = ""
+region = ""
+## Backend ##
+bucket_name = ""
+dynamodbTable_name = ""
+## EKS ##
+cluster_name = ""
+vpc_name = ""
+cluster_version = ""
+securityGroup_name = ""
+nodeGroup_name = ""
+instance_type = ""
+ng_minSize = ""
+ng_maxSize = ""
+ng_desiredSize = ""
